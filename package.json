@@ -1,0 +1,26 @@
+{
+  "name": "weasilboy.github.io",
+  "version": "0.1.0",
+  "description": "Tim's handy dandy website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weasilboy/weasilboy.github.io.git"
+  },
+  "keywords": [
+    "websites",
+    "static",
+    "site",
+    "UX",
+    "dude"
+  ],
+  "author": "TTim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weasilboy/weasilboy.github.io/issues"
+  },
+  "homepage": "https://github.com/weasilboy/weasilboy.github.io#readme"
+}
