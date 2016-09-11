@@ -1,13 +1,16 @@
 # weasilboy.github.io
-Github Pages Repository
+## Tim's page
 
-Hello and welcome to the wonderful world of Tim.
+## Dependencies
 
-Before we get started I'd like to thank Tommy for bringing me this far.
+- nodejs with NPM - Install 'brew install node'
 
-Couple of goals I have for this page:
-*Set up a decent HTML/CSS splash page.
-*Perform simple tasks in JavaScript.
-*Demonstrate an understand of what JQuery is.
+##Install NPM packages
+- while in your project directory run: `npm install`
 
-Welcome to school life buddy. I bet you didn't expect to be back at UCI this year did ya? Welcome home :)
+## Running local server
+
+```bash
+npm run serve
+
+The NPM scripts will run `node node_modules/http-server/bin/http-server` which is one of the dependencies for this projects. It's just a simple local server to just see your static files.
